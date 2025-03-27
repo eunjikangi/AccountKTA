@@ -127,12 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="gilded_rose.cpp" />
-    <ClCompile Include="gilded_rose_test.cpp" />
+    <ClCompile Include="account.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="gilded_rose.h" />
+    <ClInclude Include="account.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

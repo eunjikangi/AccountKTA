@@ -18,18 +18,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gilded_rose_test.cpp">
-      <Filter>테스트 파일</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gilded_rose.cpp">
+    <ClCompile Include="account.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="gilded_rose.h">
+    <ClInclude Include="account.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
